@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Olá! Meu nome é Ryan Romagnoli, tenho 17 anos e sou de São Paulo. Atualmente estou cursando Engenharia de Software na FIAP, onde venho aprofundando meus conhecimentos na área de tecnologia. Estou em constante aprendizado, explorando novas ferramentas e desenvolvendo minhas habilidades por meio de projetos práticos. Aqui no meu GitHub você vai encontrar um pouco da minha jornada, com códigos, experimentos e ideias que venho construindo ao longo do tempo.
+Olá! Meu nome é Ryan Romagnoli, tenho 18 anos e sou de São Paulo. Atualmente estou cursando Engenharia de Software na FIAP, onde venho aprofundando meus conhecimentos na área de tecnologia. Estou em constante aprendizado, explorando novas ferramentas e desenvolvendo minhas habilidades por meio de projetos práticos. Aqui no meu GitHub você vai encontrar um pouco da minha jornada, com códigos, experimentos e ideias que venho construindo ao longo do tempo.
 
 ### 🤖 Linguagens e tecnologias
 <img
