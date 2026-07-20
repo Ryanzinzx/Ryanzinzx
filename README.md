@@ -11,10 +11,11 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/ryan-romagnoli-058a54404">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:ryansantosromagnoli@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  &nbsp;
+  <a href="mailto:ryansantosromagnoli@gmail.com?subject=Contato%20pelo%20GitHub">
+    <img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -32,13 +33,8 @@
 
 ## 🛠️ Tecnologias e ferramentas
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,css,js,git,github,vscode" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Banco%20de%20Dados%20%2F%20SQL-em%20estudo-1f6feb?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel%20%2F%20Planilhas-em%20revis%C3%A3o-217346?style=for-the-badge" />
 </p>
 
 ---
@@ -90,7 +86,7 @@
 
 ---
 
-## 📈 Em evolução
+## 📚 Atualmente estudando
 
 <table>
   <tr>
@@ -107,9 +103,9 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>💻 Web</h3>
+      <h3>📊 Planilhas</h3>
       <p>
-        Desenvolvendo base em HTML, CSS e JavaScript por meio de projetos acadêmicos.
+        Revisando fundamentos de Excel e planilhas para organização de informações e apoio a rotinas.
       </p>
     </td>
   </tr>
