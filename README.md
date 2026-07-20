@@ -10,13 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/ryan-romagnoli-058a54404">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:ryansantosromagnoli@gmail.com?subject=Contato%20pelo%20GitHub">
-    <img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://linkedin.com/in/ryan-romagnoli-058a54404"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a><a href="https://mail.google.com/mail/?view=cm&fs=1&to=ryansantosromagnoli@gmail.com&su=Contato%20pelo%20GitHub"><img src="https://img.shields.io/badge/E--MAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
