@@ -57,7 +57,7 @@
       </a>
     </td>
     <td width="50%" valign="top">
-      <h3>🍷 Vinharia Agnelo</h3>
+      <h3>🍷 Vinharia Agnello</h3>
       <p>
         <b>Site fictício de vinhos</b>
       </p>
