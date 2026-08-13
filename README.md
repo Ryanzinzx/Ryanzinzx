@@ -1,7 +1,7 @@
 <h1 align="center">Ryan Romagnoli</h1>
 
 <p align="center">
-  <b>Young Apprentice / IT Internship</b> • <b>Python</b> • <b>Web Development</b>
+  <b>Young Apprentice / IT Internship</b> • <b>Troubleshooting</b> • <b>Cybersecurity</b>
 </p>
 
 <p align="center">
