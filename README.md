@@ -97,9 +97,9 @@
       </p>
     </td>
     <td width="33%" valign="top">
-      <h3>🔒 Cybersecurity</h3>
+      <h3>🤖 Artificial Intelligence</h3>
       <p>
-        I am currently beginning my studies in the field of Cybersecurity, developing knowledge in information security, networks, systems and good protection practices.
+        I am currently beginning my studies in the field of AI, developing knowledge in machine learning, neural networks, and AI fundamentals.
       </p>
     </td>
   </tr>
